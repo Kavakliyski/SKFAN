@@ -1,0 +1,14 @@
+.bgimg{
+  height: auto;
+  background-size:cover; 
+  width: auto;
+  background-image: url('../assets/bg-black-yellow.jpg');
+  background-attachment: fixed;
+}
+
+// @media screen and (max-width: 1024px) {
+//   .bgimg{
+//     left: 50%;
+//     margin-left: -512px;   /* 50% */
+//   }
+// }
